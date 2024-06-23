@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Backend Software Developer</p>
+<h5 align="left">Backend Software Developer</h5>
 
 ###
 
-<p align="left">Techs</p>
+<h2 align="left">Techs</h2>
 
 ###
 
@@ -36,4 +36,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaioMonteiro2603&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
