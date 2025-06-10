@@ -5,7 +5,7 @@
 <h2 align="left">
   Hi there! I'm Caio, a backend developer and and PhD researcher specializing in the automation of end-to-end software testing.<br>
 
-  Feel free to check out my repositories to see what I'm working on. 
+  <br>Feel free to check out my repositories to see what I'm working on. 
 </h2>
 
 ###
