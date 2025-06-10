@@ -2,7 +2,9 @@
 
 ###
 
-<h3 align="left">Backend Software Developer</h3>
+<h2 align="left">
+  Hi there! I'm Caio, a backend developer and and PhD researcher specializing in the automation of end-to-end software testing.
+</h2>
 
 ###
 
