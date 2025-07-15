@@ -22,3 +22,6 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteiro2603&layout=compact&theme=github_dark"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CaioMonteiro2603&show_icons=true&count_private=true&theme=github_dark" />
+</p>
