@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img width="400" height="400" alt="robo png" src="https://github.com/user-attachments/assets/ac2c29cc-ac1e-4867-b6f8-7c371f729475" />
+  <img style="max-width: 100%; width: 300px; alt="robo png" src="https://github.com/user-attachments/assets/ac2c29cc-ac1e-4867-b6f8-7c371f729475" />
 
 
 <p align="center"><i>Backend developer and PhD student in Computer Science.</i></p>
