@@ -61,4 +61,11 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="python logo"  />
   <img width="12" />
 </div>
-<p align="center"><i>Backend developer and PhD student in Computer Science.</i></p> <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMonteiro2603&show_icons=true&theme=github_dark&count_private=true"/> <img height="150em"</p>
+
+<h2>📫 Let's connect</h2>
+
+<div align="left">
+  <a href="www.linkedin.com/in/caio-edumonteiro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
