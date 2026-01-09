@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="60" alt="githubactions logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mssqlserver" height="60" alt="Microsoft SQL Server logo" />
+  <img src="https://skillicons.dev/icons?i=sqlserver" height="60" alt="Microsoft SQL Server logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
