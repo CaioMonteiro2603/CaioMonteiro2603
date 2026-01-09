@@ -29,4 +29,4 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vim" height="60" alt="vim logo"  />
 </div>
-<p align="center"><i>Backend developer and PhD student in Computer Science.</i></p> <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMonteiro2603&show_icons=true&theme=github_dark&count_private=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioMonteiro2603&layout=compact&theme=github_dark"/> </p>
+<p align="center"><i>Backend developer and PhD student in Computer Science.</i></p> <p align="center"> <img height="150em" src="https://github-readme-stats.vercel.app/api?username=CaioMonteiro2603&show_icons=true&theme=github_dark&count_private=true"/> <img height="150em"</p>
