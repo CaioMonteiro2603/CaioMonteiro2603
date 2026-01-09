@@ -62,7 +62,7 @@
   <img width="12" />
 </div>
 
-<h2>📫 Let's connect</h2>
+<h2>📫 Connect with me</h2>
 
 <div align="left">
   <a href="www.linkedin.com/in/caio-edumonteiro/" target="_blank">
