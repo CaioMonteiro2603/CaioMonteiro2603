@@ -2,6 +2,12 @@
   Hi There <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="45" /> 
 </h1>
 
+<p align="left">
+  Backend Software Engineer and PhD Candidate <br />
+
+  "Stay hungry, stay foolish."
+</p>
+
 <h2>🛠️ I code with</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=net" height="60" alt=".NET logo"  />
