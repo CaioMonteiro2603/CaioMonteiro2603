@@ -3,7 +3,7 @@
 </h1>
 
 <p align="left">
-  I'm a Backend Software Engineer and PhD Candidate in Computer Science<br />
+  Backend Software Engineer and PhD Candidate in Computer Science<br />
 
   "Stay hungry, stay foolish."
 </p>
